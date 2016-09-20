@@ -1,7 +1,7 @@
 # Register.eu public API
 
 [![Build Status](https://travis-ci.org/register-eu/register-api.svg?branch=master)](https://travis-ci.org/register-eu/register-api)
-
+[![Coverage Status](https://coveralls.io/repos/github/register-eu/register-api/badge.svg?branch=master)](https://coveralls.io/github/register-eu/register-api?branch=master)
 
 The *Register.eu public API project* wraps around [Guzzle](http://docs.guzzlephp.org/en/latest/) and offers *HMAC authentication*. You can use the client to easily connect to the Register.eu public API endpoint.
 
